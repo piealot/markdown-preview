@@ -1,7 +1,6 @@
 import './App.css';
 import { useState } from "react";
 import { marked } from "marked";
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   const placeholder = `# Welcome to my React Markdown Previewer!
